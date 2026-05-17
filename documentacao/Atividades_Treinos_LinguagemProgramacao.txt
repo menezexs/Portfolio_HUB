@@ -1,0 +1,67 @@
+# ATIVIDADES/TREINO DE ESTUDOS (Linguagem de Programação);
+
+1 - Diversidade de Computadores;
+
+2 - Uso intensivo de Computadores;
+
+3 - Maior Quantidade Computacional em determinados Ambientes;
+
+# Computador = Calcular;
+
+os Dados de Entradas são “processados” e geram uma saída;
+
+1 - Dados de Entrada = Input;
+
+2 - processamento;
+
+3 - Dados de Saída = Output; (Resultado dos cálculos de operação lógica - Aritmética);
+
+# Operação Lógica;
+
+Armazena dados através de variáveis e defini a condição delas através da sintaxe de um bloco de dados;
+
+# Operação Aritmética;
+
+calculo feito atráves de números/dados;
+
+# Solução Computacional;
+
+isso Envolve Hardware e Software (Ambos trabalhando em conexões);
+
+Hardware = Componentes Físicos Computacional;
+
+Software = Aplicativos/Plataformas Virtuais;
+
+os Softwares são feitos por Especialistas da tecnologia com o objetivo de gerar uma solução ao publico alvo; 
+
+  Um Software é formado por diversos componentes (Back-End. Front-End. Banco de Dados.);
+
+Os Software são soluções para demandas;
+
+# Como transformar uma ideia em Software ?
+
+Precisamos instruir o computador para interagir com o usuário;
+
+Instruções devem ser bem objetivas e claras; 
+
+## Pensamento Computacional
+
+Habilidade de resolver problemas com lógica, passo a passo, como se estivéssemos explicando para um computador; 
+
+# Etapas da extração do conhecimento computacional pro mundo real;
+
+1 - Decompor problemas em partes pequenas;
+
+2 - Reconhecer Padrões (identificar riscos e soluções para serem seguidas);
+
+3 - Abstrair o que é relevante (Não dificultar o acesso ao usuário, mas sim, simplifica-lo através da conversão de algo complexo para algo fácil de ser acessado/consumido);
+
+4 - Criar Sequências em ordens;
+
+# Estruturas De Dados;
+
+1 - Listas e Tuplas (Listas = Variáveis alteráveis) (Tuplas = Não Alteráveis);
+
+2 - Loops for;
+
+3 - If e Else;
